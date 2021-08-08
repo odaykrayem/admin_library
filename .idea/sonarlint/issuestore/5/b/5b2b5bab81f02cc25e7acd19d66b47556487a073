@@ -1,0 +1,22 @@
+
+V	java:S110"<This class has 9 parents which is greater than 5 authorized.(‘Ô¨ğıÿÿÿÿ
+g	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(‘Ô¨ğıÿÿÿÿ
+>
+java:S1604?"(Make this anonymous inner class a lambda(°¯èù
+=
+java:S1604G"(Make this anonymous inner class a lambda(¾ñçi
+>
+java:S1604}"(Make this anonymous inner class a lambda(×¾À¬
+>
+java:S1604y"(Make this anonymous inner class a lambda(öØ¡À
+D
+java:S1604ˆ"(Make this anonymous inner class a lambda(Ÿ ¹ÿÿÿÿÿ
+D
+java:S1604"(Make this anonymous inner class a lambda(•–Û¨úÿÿÿÿ
+L
+java:S1874-"6Remove this use of "ProgressDialog"; it is deprecated.(ğİıº
+Q
+java:S1874p"6Remove this use of "ProgressDialog"; it is deprecated.(¿Ú•ğúÿÿÿÿ
+M
+java:S1874q"2Remove this use of "setMessage"; it is deprecated.(ªƒ¡Ãüÿÿÿÿ
+W	java:S125ƒ"<This block of commented-out lines of code should be removed.(º¥¾€øÿÿÿÿ

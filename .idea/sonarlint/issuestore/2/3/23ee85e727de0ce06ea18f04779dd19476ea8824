@@ -1,0 +1,50 @@
+
+V	java:S110)"<This class has 9 parents which is greater than 5 authorized.(Å²˜Çøÿÿÿÿ
+g	java:S101)"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(Å²˜Çøÿÿÿÿ
+>
+java:S1604~"(Make this anonymous inner class a lambda(•¥ùõ
+?
+java:S1604†"(Make this anonymous inner class a lambda(±Ä­”
+?
+java:S1604Û"(Make this anonymous inner class a lambda(×¾À¬
+?
+java:S1604×"(Make this anonymous inner class a lambda(öØ¡À
+D
+java:S1604æ"(Make this anonymous inner class a lambda(Ÿ ¹ÿÿÿÿÿ
+D
+java:S1604í"(Make this anonymous inner class a lambda(•–Û¨úÿÿÿÿ
+A
+java:S1128&"+Remove this unused import 'java.util.Date'.(¸…¼ü
+E
+java:S1128%"/Remove this unused import 'java.util.Calendar'.(ÿÛö´
+
+java:S1186©"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(¹Æº×şÿÿÿÿ
+B
+java:S16592"'Declare "categoryt" on a separate line.(áÆøæùÿÿÿÿ
+C
+java:S16592"(Declare "bookImaget" on a separate line.(áÆøæùÿÿÿÿ
+D
+java:S16592")Declare "authorNamet" on a separate line.(áÆøæùÿÿÿÿ
+@
+java:S16592"%Declare "pdfUrlt" on a separate line.(áÆøæùÿÿÿÿ
+A
+java:S16592"&Declare "adImaget" on a separate line.(áÆøæùÿÿÿÿ
+L
+java:S1874:"6Remove this use of "ProgressDialog"; it is deprecated.(ğİıº
+T
+java:S1854b"9Remove this useless assignment to local variable "refer".(ïş°øÿÿÿÿ
+t
+java:S2293d"YReplace the type specification in this constructor call with the diamond operator ("<>").(ñƒ‡ÿÿÿÿÿ
+œ
+java:S1186t"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(¹Æº×şÿÿÿÿ
+C	java:S108l")Either remove or fill this block of code.(–¶ğàûÿÿÿÿ
+˜
+java:S1186œ"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Ô°¤¦
+R
+java:S1874Î"6Remove this use of "ProgressDialog"; it is deprecated.(¿Ú•ğúÿÿÿÿ
+N
+java:S1874Ï"2Remove this use of "setMessage"; it is deprecated.(ªƒ¡Ãüÿÿÿÿ
+W	java:S125á"<This block of commented-out lines of code should be removed.(º¥¾€øÿÿÿÿ
+W	java:S125"<This block of commented-out lines of code should be removed.(ÜÙ±İûÿÿÿÿ
+E
+java:S1481b"*Remove this unused "refer" local variable.(ïş°øÿÿÿÿ

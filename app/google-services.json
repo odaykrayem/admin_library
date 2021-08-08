@@ -1,0 +1,77 @@
+{
+  "project_info": {
+    "project_number": "433184036312",
+    "firebase_url": "https://free-e-books-library-default-rtdb.firebaseio.com",
+    "project_id": "free-e-books-library",
+    "storage_bucket": "free-e-books-library.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:433184036312:android:6b0c0abcbfa5e66056cead",
+        "android_client_info": {
+          "package_name": "com.digitalminds.admindataupload"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "433184036312-4gkcppb5i673f11f72767jgqun56s2pp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA3w82P_UXfRZg_uu_kX-FIWckVIXY1evQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "433184036312-4gkcppb5i673f11f72767jgqun56s2pp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:433184036312:android:5920adc78dec22bb56cead",
+        "android_client_info": {
+          "package_name": "com.digitalminds.freebookslibrary"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "433184036312-amdpcbfov2mkme7d3tsi7baea517cqmd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.digitalminds.freebookslibrary",
+            "certificate_hash": "4e274d3d3042c8dbef663d967716dd0db43d0d12"
+          }
+        },
+        {
+          "client_id": "433184036312-4gkcppb5i673f11f72767jgqun56s2pp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA3w82P_UXfRZg_uu_kX-FIWckVIXY1evQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "433184036312-4gkcppb5i673f11f72767jgqun56s2pp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

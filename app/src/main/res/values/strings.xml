@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Library Admin</string>
+    <string name="add_category">Add Category</string>
+    <string name="add_book">Add Book</string>
+    <string name="add">Add</string>
+    <string name="enter_category">Enter Category</string>
+    <string name="add_new_category">Add New Category</string>
+    <string name="select_book_image">Select Book Image</string>
+    <string name="select_category_icon_in_svg">Select Category Icon in SVG</string>
+</resources>
