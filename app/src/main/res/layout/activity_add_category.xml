@@ -24,7 +24,7 @@
 
         <com.google.android.material.textfield.TextInputLayout
             android:id="@+id/titleLayoutEN"
-            android:layout_width="360dp"
+            android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_marginStart="20dp"
             android:layout_marginTop="30dp"
@@ -38,14 +38,14 @@
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:layout_below="@+id/firstName"
-                android:hint="@string/enter_category"
+                android:hint="Category Name English"
                 android:layout_marginTop="20dp"
                 android:textSize="18sp"
                 android:inputType="text" />
         </com.google.android.material.textfield.TextInputLayout>
         <com.google.android.material.textfield.TextInputLayout
             android:id="@+id/titleLayoutAR"
-            android:layout_width="360dp"
+            android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_marginStart="20dp"
             android:layout_marginTop="30dp"
@@ -59,14 +59,14 @@
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:layout_below="@+id/firstName"
-                android:hint="@string/enter_category"
+                android:hint="Category Name Arabic"
                 android:layout_marginTop="20dp"
                 android:textSize="18sp"
                 android:inputType="text" />
         </com.google.android.material.textfield.TextInputLayout>
         <com.google.android.material.textfield.TextInputLayout
             android:id="@+id/titleLayoutKU"
-            android:layout_width="360dp"
+            android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_marginStart="20dp"
             android:layout_marginTop="30dp"
@@ -80,7 +80,7 @@
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:layout_below="@+id/firstName"
-                android:hint="@string/enter_category"
+                android:hint="Category Name Kurdish"
                 android:layout_marginTop="20dp"
                 android:textSize="18sp"
                 android:inputType="text" />
@@ -94,18 +94,17 @@
             android:layout_marginEnd="20dp"
             android:layout_marginTop="25dp"
             android:text="@string/select_category_icon_in_svg"
-            android:textColor="#000"
             android:textSize="20sp"
             android:textStyle="bold"
             />
 
         <ImageView
             android:id="@+id/categoryImage"
-            android:layout_width="190dp"
-            android:layout_height="135dp"
+            android:layout_width="200dp"
+            android:layout_height="170dp"
             android:layout_gravity="center"
             android:layout_marginTop="35dp"
-            android:background="@drawable/imageicon"
+            android:src="@drawable/imageicon"
             android:contentDescription="book_image"
             android:text="Browse"
             android:textColor="#fff" />
